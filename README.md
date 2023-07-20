@@ -32,3 +32,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victormenendes&show_icons=true&locale=en" alt="victormenendes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victormenendes&" alt="victormenendes" /></p>
+
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
